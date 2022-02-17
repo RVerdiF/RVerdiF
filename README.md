@@ -1,9 +1,9 @@
-<h1 align="center">Hi there👋, I'm Verdi!</h1>
-<h3 align="center">A begginer at data analysis from Brazil</h3>
+<h1 align="leftr">Hi there👋, I'm Verdi!</h1>
+
+<h3 align="left">A begginer at data analysis from Brazil</h3>
 
 - 🌱 I’m currently learning **Databases and Python**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 

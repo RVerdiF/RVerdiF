@@ -1,14 +1,17 @@
-<h1 align="left">Hi there👋, I'm Verdi!</h1>
+# Hi there 👋, I'm Verdi!
 
-<h3 align="left">A Data Scientist & AI Specialist from Brazil.</h3>
+### [cite_start]A Data Scientist & AI Specialist from Brazil [cite: 2, 23]
 
-<p align="left">
-[cite_start]I'm a Data Scientist specializing in AI-driven fraud prevention within the financial industry[cite: 11, 26]. [cite_start]I develop and orchestrate autonomous AI agents, build predictive models with machine learning, and create automated solutions to enhance operational efficiency[cite: 12, 13, 29, 31].
-</p>
+[cite_start]Sou um Cientista de Dados com mais de quatro anos de experiência na indústria financeira [cite: 10, 23][cite_start], com foco em criar soluções de Inteligência Artificial para prevenção à fraude[cite: 11, 13]. [cite_start]Minhas principais responsabilidades incluem o desenvolvimento de agentes autônomos de IA, a construção de modelos preditivos com Machine Learning e a automação de processos complexos[cite: 29, 31, 32].
 
-- [cite_start]🌱 I’m currently deepening my knowledge in **Machine Learning Engineering and MLOps** through my postgraduate studies[cite: 56, 62].
+- [cite_start]🌱 Atualmente, estou aprofundando meus conhecimentos em **Engenharia de Machine Learning e MLOps** em minha Pós-Graduação na FIAP[cite: 56, 62].
+- [cite_start]🔭 Tenho experiência prática gerenciando projetos de forma autônoma com práticas DevOps e metodologias ágeis[cite: 14, 35, 49].
+- 💬 Sinta-se à vontade para entrar em contato comigo para falar sobre Análise de Dados, IA Generativa ou qualquer outra tecnologia!
 
-<h3 align="left">Languages and Tools:</h3>
+<br>
+
+### Languages and Tools:
+
 <p align="left"> 
     <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
@@ -29,4 +32,3 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/powerbi/powerbi-original.svg" alt="powerbi" width="40" height="40"/> 
     </a>
 </p>
-
